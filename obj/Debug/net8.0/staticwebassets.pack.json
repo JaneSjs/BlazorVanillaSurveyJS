@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp-SurveyJSFormLibrary.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorApp-SurveyJSFormLibrary.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\js\\survey.js",
+      "PackagePath": "staticwebassets\\js\\survey.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApp-SurveyJSFormLibrary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorApp-SurveyJSFormLibrary.props",
+      "PackagePath": "build\\BlazorApp-SurveyJSFormLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorApp-SurveyJSFormLibrary.props",
+      "PackagePath": "buildMultiTargeting\\BlazorApp-SurveyJSFormLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorApp-SurveyJSFormLibrary.props",
+      "PackagePath": "buildTransitive\\BlazorApp-SurveyJSFormLibrary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
