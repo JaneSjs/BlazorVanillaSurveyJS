@@ -1,27 +1,31 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp-SurveyJSFormLibrary.bundle.scp.css",
+      "Id": "D:\\SurveyJS\\BlazorVanillaSJS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp-SurveyJSFormLibrary.bundle.scp.css",
       "PackagePath": "staticwebassets\\BlazorApp-SurveyJSFormLibrary.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\app.css",
+      "Id": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\favicon.png",
+      "Id": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\js\\survey.js",
+      "Id": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\js\\formBuilder.js",
+      "PackagePath": "staticwebassets\\js\\formBuilder.js"
+    },
+    {
+      "Id": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\js\\survey.js",
       "PackagePath": "staticwebassets\\js\\survey.js"
     },
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SVnCzygiaGGEL7Y6ECvPy6KIweIhV+SuZtBGv/5H6Vz1+4OyDfklaAox4OlLWC3BJEZFHjzmLJNz6dMMpqT3wg==",
+  "dgSpecHash": "4k7F8mUMvyOcTfoHnt8/quS5zQ2y7e1a/p96OEI5bczEAhaZFyaa/msVBEulf/weXWjoktA1pML2Z5gEPYwQmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary.csproj",
+  "projectFilePath": "D:\\SurveyJS\\BlazorVanillaSJS\\BlazorApp-SurveyJSFormLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

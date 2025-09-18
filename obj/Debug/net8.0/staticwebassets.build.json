@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Oke9t99Lg9/W3NBwCMaMLT4La06gkxqZ+LfaZzgQ6BU=",
+  "Hash": "WLfFZ+Ioj8OA8oorMqktGBnd9N7Se3Fg/mK7OUfFIrU=",
   "Source": "BlazorApp-SurveyJSFormLibrary",
   "BasePath": "_content/BlazorApp-SurveyJSFormLibrary",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorApp-SurveyJSFormLibrary\\wwwroot",
       "Source": "BlazorApp-SurveyJSFormLibrary",
-      "ContentRoot": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\",
+      "ContentRoot": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\",
       "BasePath": "_content/BlazorApp-SurveyJSFormLibrary",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp-SurveyJSFormLibrary.styles.css",
+      "Identity": "D:\\SurveyJS\\BlazorVanillaSJS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp-SurveyJSFormLibrary.styles.css",
       "SourceId": "BlazorApp-SurveyJSFormLibrary",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\SurveyJS\\BlazorVanillaSJS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorApp-SurveyJSFormLibrary",
       "RelativePath": "BlazorApp-SurveyJSFormLibrary.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp-SurveyJSFormLibrary.styles.css"
+      "OriginalItemSpec": "D:\\SurveyJS\\BlazorVanillaSJS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp-SurveyJSFormLibrary.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp-SurveyJSFormLibrary.bundle.scp.css",
+      "Identity": "D:\\SurveyJS\\BlazorVanillaSJS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp-SurveyJSFormLibrary.bundle.scp.css",
       "SourceId": "BlazorApp-SurveyJSFormLibrary",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\SurveyJS\\BlazorVanillaSJS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorApp-SurveyJSFormLibrary",
       "RelativePath": "BlazorApp-SurveyJSFormLibrary.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp-SurveyJSFormLibrary.bundle.scp.css"
+      "OriginalItemSpec": "D:\\SurveyJS\\BlazorVanillaSJS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp-SurveyJSFormLibrary.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\app.css",
+      "Identity": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\app.css",
       "SourceId": "BlazorApp-SurveyJSFormLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\",
+      "ContentRoot": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\",
       "BasePath": "_content/BlazorApp-SurveyJSFormLibrary",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorApp-SurveyJSFormLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\",
+      "ContentRoot": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\",
       "BasePath": "_content/BlazorApp-SurveyJSFormLibrary",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorApp-SurveyJSFormLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\",
+      "ContentRoot": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\",
       "BasePath": "_content/BlazorApp-SurveyJSFormLibrary",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\favicon.png",
+      "Identity": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\favicon.png",
       "SourceId": "BlazorApp-SurveyJSFormLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\",
+      "ContentRoot": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\",
       "BasePath": "_content/BlazorApp-SurveyJSFormLibrary",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -131,10 +131,29 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\js\\survey.js",
+      "Identity": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\js\\formBuilder.js",
       "SourceId": "BlazorApp-SurveyJSFormLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jane\\Downloads\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\BlazorApp-SurveyJSFormLibrary\\wwwroot\\",
+      "ContentRoot": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\",
+      "BasePath": "_content/BlazorApp-SurveyJSFormLibrary",
+      "RelativePath": "js/formBuilder.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\formBuilder.js"
+    },
+    {
+      "Identity": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\js\\survey.js",
+      "SourceId": "BlazorApp-SurveyJSFormLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\",
       "BasePath": "_content/BlazorApp-SurveyJSFormLibrary",
       "RelativePath": "js/survey.js",
       "AssetKind": "All",
