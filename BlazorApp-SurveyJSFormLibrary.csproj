@@ -7,5 +7,8 @@
     <RootNamespace>BlazorApp-SurveyJSFormLibrary</RootNamespace>
     <AssemblyName>$(AssemblyName.Replace(' ', '_'))</AssemblyName>
   </PropertyGroup>
-
+    <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+		<Exec Command="npm install" WorkingDirectory="." />
+		<Exec Command="npm run build" WorkingDirectory="." />
+	</Target>
 </Project>
