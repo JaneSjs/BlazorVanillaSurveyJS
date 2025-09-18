@@ -1,19 +1,18 @@
-window.initializeSurveyDashboard = function (surveyJsonString, surveyDataJsonString, dotnetHelper) {
+window.initializeSurveyDashboard = function (surveyJsonString, surveyDataArray, dotnetHelper) {
     try {
-        const surveyJson = JSON.parse(surveyJsonString);
-        const surveyData = JSON.parse(surveyDataJsonString);
+        const json = JSON.parse(surveyJsonString);
+        const dataFromServer = Array.isArray(surveyDataArray) ? surveyDataArray : JSON.parse(surveyDataArray);
 
-        // Create the dashboard
-        const dashboard = new SurveyAnalytics.Dashboard("surveyDashboardContainer", surveyJson, surveyData);
+        const survey = new Survey.Model(json);
 
-        // Optional: handle dashboard interactions if needed
-        dashboard.onAfterRender.add(function () {
-            console.log("Dashboard rendered successfully");
-            if (dotnetHelper) {
-                dotnetHelper.invokeMethodAsync("OnDashboardRendered");
-            }
-        });
+       const vizPanel = new SurveyAnalytics.VisualizationPanel(
+                survey.getAllQuestions(),
+                dataFromServer
+       );
+       vizPanel.render("surveyDashboardContainer");
 
+       if (dotnetHelper) dotnetHelper.invokeMethodAsync("OnDashboardRendered");
+       
         console.log("Survey Dashboard initialized successfully");
     } catch (error) {
         console.error("Error initializing Survey Dashboard:", error);
