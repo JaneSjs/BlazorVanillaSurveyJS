@@ -1,1 +1,28 @@
+# Build folders
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio
 .vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# Node / NPM
+node_modules/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Other
+*.DS_Store

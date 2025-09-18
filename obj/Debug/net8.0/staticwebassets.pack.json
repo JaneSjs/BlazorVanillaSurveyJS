@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\dashboard.js"
+    },
+    {
       "Id": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\js\\formBuilder.js",
       "PackagePath": "staticwebassets\\js\\formBuilder.js"
     },

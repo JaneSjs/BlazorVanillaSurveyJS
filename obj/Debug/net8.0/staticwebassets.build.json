@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WLfFZ+Ioj8OA8oorMqktGBnd9N7Se3Fg/mK7OUfFIrU=",
+  "Hash": "qchsmhqjmF4T62zt4jYxGuVnCRc+JF7kPO+0JxKasC8=",
   "Source": "BlazorApp-SurveyJSFormLibrary",
   "BasePath": "_content/BlazorApp-SurveyJSFormLibrary",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\js\\dashboard.js",
+      "SourceId": "BlazorApp-SurveyJSFormLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\",
+      "BasePath": "_content/BlazorApp-SurveyJSFormLibrary",
+      "RelativePath": "js/dashboard.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\dashboard.js"
     },
     {
       "Identity": "D:\\SurveyJS\\BlazorVanillaSJS\\wwwroot\\js\\formBuilder.js",
