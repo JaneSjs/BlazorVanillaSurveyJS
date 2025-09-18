@@ -1,7 +1,5 @@
-# Visual Studio / .NET
-bin/
-obj/
-*.user
-*.suo
-*.cache
-*.vs/
+.vs
+obj
+bin
+node_modules
+wwwroot/static
